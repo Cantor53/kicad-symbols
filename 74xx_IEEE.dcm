@@ -1,15 +1,1026 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 7400
+D Quad 2−Input Positive NAND Gate
+K 2-input NAND
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7400.pdf
+$ENDCMP
+#
+$CMP 7401
+D Quad 2−Input Positive NAND Gate with Open Collector Outputs
+K 2-input NAND, open collector
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7401.pdf
+$ENDCMP
+#
+$CMP 7402
+D Quad 2−Input Positive NOR Gate
+K 2-input NOR
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7402.pdf
+$ENDCMP
+#
+$CMP 7403
+D Quad 2−Input Positive NAND Gatewith Open Collector Outputs
+K 2-input NAND, open collector
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7403.pdf
+$ENDCMP
+#
+$CMP 7404
+D Hex Inverter
+K inverter
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7404.pdf
+$ENDCMP
+#
+$CMP 7405
+D  Hex Inverter with Open Collector Outputs
+K inverter, open collector
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7405.pdf
+$ENDCMP
+#
+$CMP 7406
+D  Hex Inverter Buffer/Driver with Open Collector High Voltage Outputs
+K inverter, open collector, high voltage
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7406.pdf
+$ENDCMP
+#
+$CMP 7407
+D Hex Buffer/Driver with Open Collector High Voltage Outputs
+K open collector, high voltage
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7407.pdf
+$ENDCMP
+#
+$CMP 7408
+D Quad 2−Input Positive AND Gate
+K 2-input AND
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7408.pdf
+$ENDCMP
+#
+$CMP 7409
+D Quad 2−Input Positive AND Gatewith Open Collector Outputs
+K 2-input AND, open collector
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7409.pdf
+$ENDCMP
+#
+$CMP 7410
+D Triple 3−Input Positive NAND Gate
+K 3-input NAND
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7410.pdf
+$ENDCMP
+#
+$CMP 7411
+D Triple 3−Input Positive AND Gate
+K 3-input AND
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7411.pdf
+$ENDCMP
+#
+$CMP 7412
+D Triple 3−Input Positive NAND Gate with Open Collector Outputs
+K 3-input AND, open collector
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7412.pdf
+$ENDCMP
+#
+$CMP 74125
+D Quad Bus Buffer with 3−State Outputs
+K buffer, 3-state
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74125.pdf
+$ENDCMP
+#
+$CMP 74126
+D Quad Bus Buffer with 3−State Outputs
+K buffer, 3-state
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74126.pdf
+$ENDCMP
+#
+$CMP 74128
+D Quad 2−Input NOR 50 Ohm Line Driver
+K 2-input Nor, line driver 50 Ohm
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74128.pdf
+$ENDCMP
+#
+$CMP 7413
+D Dual 4−Input Positive NAND Schmitt Trigger
+K 4-input NAND, Schmitt Trigger
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7413.pdf
+$ENDCMP
+#
+$CMP 74132
+D Quad 2−Input Positive NAND Schmitt Trigger
+K 2-input NAND, Schmitt Trigger
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74132.pdf
+$ENDCMP
+#
+$CMP 7414
+D Hex Schmitt Trigger Inverter
+K inverter, Schmitt Trigger
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7414.pdf
+$ENDCMP
+#
+$CMP 74141
+D BCD−to−Decimal Decoder/Driver
+K BCD−to−Decimal Decoder, driver, inverted output
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74141.pdf
+$ENDCMP
+#
+$CMP 74145
+D  BCD−to−Decimal Decoder/Driver
+K BCD−to−Decimal Decoder, driver, buffer, inverted output
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74145.pdf
+$ENDCMP
+#
+$CMP 74147
+D  10-to-4 Line Priority Encoder 
+K  10-to-4 Line Priority Encoder 
+F http://www.ti.com/lit/ds/symlink/cd74hct147.pdf
+$ENDCMP
+#
+$CMP 74148
+D 10-Line To 4-Line And 8-Line To 3-Line Priority Encoders
+K Encoder,priority
+F http://www.ti.com/lit/ds/symlink/sn54ls148.pdf
+$ENDCMP
+#
+$CMP 74151
+D 8−Channel Data Selector/Multiplexer
+K Multiplexer, Selector
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74151.pdf
+$ENDCMP
+#
+$CMP 74153
+D Dual 4−Line−to−1−Line Data Selector/Multiplexer
+K multiplexer, selector
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74153.pdf
+$ENDCMP
+#
+$CMP 74154
+D 4−Line−to−16−Line Decoder/Demultiplexer
+K decoder, demultiplexer
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74154.pdf
+$ENDCMP
+#
+$CMP 74155
+D Dual 2−Line−to−1−Line Decoder/Demultiplexer
+K decoder, demultiplexer
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74155.pdf
+$ENDCMP
+#
+$CMP 74156
+D Dual 2−Line−to−1−Line Decoder/Demultiplexer
+K decoder, demultiplexer
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74156.pdf
+$ENDCMP
+#
+$CMP 74157
+D Quad 2−Line−to−1−Line Data Selector/Multiplexer
+K selector, multiplexer
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74157.pdf
+$ENDCMP
+#
+$CMP 74158
+D Quad 2−Line−to−1−Line Data Selector/Multiplexer with inverted Output
+K selector, multiplexer, inverted output
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74158.pdf
+$ENDCMP
+#
+$CMP 7416
+D Hex Inverter Buffer/Driver with Open Collector High Voltage Outputs
+K inverter, open collector, high voltage, buffer, driver
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7416.pdf
+$ENDCMP
+#
+$CMP 74164
+D 8−Bit Parallel−Out Serial Shift Register
+K shift register, parallel output
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74164.pdf
+$ENDCMP
+#
+$CMP 74165
+D  8−Bit Parallel−In/Serial−Out Shift Register
+K Shift register, parallel input, serial output
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74165.pdf
+$ENDCMP
+#
+$CMP 74166
+D 8−Bit Parallel or Serial−In/Serial−Out Shift Register
+K Shift register, serial input, parallel input, serial output
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74166.pdf
+$ENDCMP
+#
+$CMP 7417
+D  Hex Buffer/Driverwith Open Collector High Voltage Outputs
+K open collector, high voltage, buffer, driver
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7417.pdf
+$ENDCMP
+#
+$CMP 74173
+D 4−Bit D−Type Register File with 3−State Outputs
+K register, 3-state
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74173.pdf
+$ENDCMP
+#
+$CMP 74176
+D 35Mhz Presettable Decade Counter/Latch
+K counter, decimal
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74176.pdf
+$ENDCMP
+#
+$CMP 74196
+D Presettable Decade Counter/Latch
+K presetable, counter, decimal
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74196.pdf
+$ENDCMP
+#
+$CMP 7420
+D Dual 4−Input Positive NAND Gate
+K 4-input NAND
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7420.pdf
+$ENDCMP
+#
+$CMP 7421
+D Dual 4−Input Positive AND Gate
+K 4-input AND
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7421.pdf
+$ENDCMP
+#
+$CMP 7422
+D Dual 4−Input Positive NAND Gatewith Open Collector Outputs
+K 4-input NAND, open collector
+F Dual 4−Input Positive NAND Gatewith Open Collector Outputs
+$ENDCMP
+#
+$CMP 74247
+D BCD-TO-SEVEN-SEGMENT DECODERS/DRIVERS
+K BCD-TO-SEVEN-SEGMENT
+F https://cdn-reichelt.de/documents/datenblatt/A240/74LS247_74LS246%23TEX.pdf
+$ENDCMP
+#
+$CMP 74249
+D BCD−to−Seven−Segment Decoder/Driver
+K BCD−to−Seven−Segment, driver
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74249.pdf
+$ENDCMP
+#
+$CMP 7425
+D Dual 4−Input Positive NOR Gate with Strobe
+K 2-input NOR, strobe
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7425.pdf
+$ENDCMP
+#
+$CMP 74251
+D Data Selector/Multiplexer with 3−State Outputs
+K selector, multiplexer, 3-state
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74251.pdf
+$ENDCMP
+#
+$CMP 74253
+D Dual 4−Line to 1−Line Data Selector/Multiplexer with 3−State Outputs
+K selector, multiplexer, 3-state
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74LS253.pdf
+$ENDCMP
+#
+$CMP 7426
+D Quad 2−Input High Voltage Positive NAND Gate
+K 2-input NAND, open collector, high voltage
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7426.pdf
+$ENDCMP
+#
+$CMP 7427
+D Triple 3−Input Positive NOR Gate
+K  3−Input NOR
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7427.pdf
+$ENDCMP
+#
+$CMP 74278
+D 4−Bit Cascadable Priority Register
+K priority, register
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74278.pdf
+$ENDCMP
+#
+$CMP 7428
+D Quad 2−Input Positive NOR Buffer
+K 2-input NOR, buffer
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7428.pdf
+$ENDCMP
+#
+$CMP 74293
+D 4−Bit Binary Counter (Divide by 2 & 8)
+K counter, binary
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74LS293.pdf
+$ENDCMP
+#
+$CMP 7430
+D 8−Input Positive NAND Gate
+K 8−Input NAND
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7430.pdf
+$ENDCMP
+#
+$CMP 7432
+D Quad 2−Input Positive OR Gate
+K OR Gate
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74LS32.pdf
+$ENDCMP
+#
+$CMP 7433
+D Quad 2−Input Positive NOR Buffer with Open−Collector Outputs
+K 2-input NOR, open collector, buffer
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7433.pdf
+$ENDCMP
+#
+$CMP 7437
+D Quad 2−Input Positive NAND Buffer
+K 2-input NAND, buffer
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7437.pdf
+$ENDCMP
+#
+$CMP 7438
+D Quad 2−Input Positive NAND Buffer with Open−Collector Outputs
+K 2-input NAND, open collector, buffer
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7438.pdf
+$ENDCMP
+#
+$CMP 7439
+D Quad 2−Input Positive NAND Buffer with Open−Collector Outputs
+K 2-input NAND, open collector, buffer
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7439.pdf
+$ENDCMP
+#
+$CMP 7440
+D Dual 4−Input Positive NAND Buffer
+K 4-input NAND, buffer
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7440.pdf
+$ENDCMP
+#
+$CMP 7442
+D 4−Line−to−10−Line BDC−to−Decimal Decoder
+K BCD-to-7-segment decoder, inverted output
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7442.pdf
+$ENDCMP
+#
+$CMP 74426
+D  Quad Bus Buffer with 3−State Outputs
+K bus buffser, 3-state
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74426.pdf
+$ENDCMP
+#
+$CMP 7443
+D 4−Line−to−10−Line Excess−3−to−Decimal Decoder
+K Excess−3−to−Decimal Decoder,inverted output
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7443.pdf
+$ENDCMP
+#
+$CMP 7444
+D 4−Line−to−10−Line Gray−to−Decimal Decoder
+K Gray−to−Decimal Decoder, inverted output
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7444.pdf
+$ENDCMP
+#
+$CMP 7445
+D BCD−toDecimal Decoder/Driver
+K BCD−toDecimal Decode, buffer,open collector
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7445.pdf
+$ENDCMP
+#
+$CMP 7446
+F http://www.ti.com/lit/ds/symlink/sn54ls49.pdf
+$ENDCMP
+#
+$CMP 7447
+F http://www.ti.com/lit/ds/symlink/sn54ls49.pdf
+$ENDCMP
+#
+$CMP 7448
+F http://www.ti.com/lit/ds/symlink/sn54ls49.pdf
+$ENDCMP
+#
+$CMP 7451
+D Dual AND/OR Invert Gate
+K AND/OR invert gate
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7451.pdf
+$ENDCMP
+#
+$CMP 7454
+D 4-Wide AND-OR-Invert Gate
+K AND-OR-Gate
+F http://www.ti.com/lit/ds/symlink/sn54ls54.pdf
+$ENDCMP
+#
+$CMP 7483
+D 4−Bit Binary Full Adder with Fast Carry
+K Adder, fast carry
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7483.pdf
+$ENDCMP
+#
+$CMP 7485
+D 4−Bit Magnitude Comparator
+K Magnitude Comparator
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7485.pdf
+$ENDCMP
+#
+$CMP 7486
+D Quad 2−Input Exclusive−OR Gate
+K 2-Input EXOR
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7486.pdf
+$ENDCMP
+#
+$CMP 7490
+D Decade Counter
+K Decade, Counter
+F http://www.ti.com/lit/ds/symlink/sn74ls90.pdf
+$ENDCMP
+#
+$CMP 7491
+D 8-Bit Shift Register
+K Shift register
+F http://www.ti.com/lit/ds/symlink/sn54ls91.pdf
+$ENDCMP
+#
+$CMP 7492
+D Divide-By-Twelve Counter 	
+K Counter, divider 12
+F http://www.ti.com/lit/ds/symlink/sn74ls92.pdf
+$ENDCMP
+#
+$CMP 7493
+D 4-Bit binary Counter
+K counter, binary
+F http://www.ti.com/lit/ds/symlink/sn74ls93.pdf
+$ENDCMP
+#
+$CMP 7495
+D 4−Bit Parallel−Access Shift Register
+K Shift register, parallel input
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7495.pdf
+$ENDCMP
+#
+$CMP 7496
+D 5−Bit Shift Register
+K parallel input, parallel output
+F https://www.nteinc.com/specs/7400to7499/pdf/nte7496.pdf
+$ENDCMP
+#
+$CMP 74ALS804
+D Hex 2-Input-NAND-Drivers
+K 2-Input NAND, Driver
+F http://www.ti.com/lit/ds/symlink/sn54als804a.pdf
+$ENDCMP
+#
+$CMP 74ALS808
+D Hex 2-Input AND Drivers
+K  2-Input AND, Driver
+F http://www.ti.com/lit/ds/symlink/sn54as808b.pdf
+$ENDCMP
+#
+$CMP 74AS805
+D Hex 2-Input-NOR Drivers
+K 2-Input-NOR, Driver
+F http://www.ti.com/lit/ds/symlink/sn54as805b.pdf
+$ENDCMP
+#
+$CMP 74HC237
+D 3-to-8 line decoder, demultiplexer with address latches
+K 3-to-8 line decoder, address latches
+F https://assets.nexperia.com/documents/data-sheet/74HC237.pdf
+$ENDCMP
+#
+$CMP 74HC238
+D 3-to-8 line decoder/demultiplexer
+K decoder, demultiplexer
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT238.pdf
+$ENDCMP
+#
+$CMP 74HC36
+D Quad 2-Input NOR gate, different pin connections from 74xx02
+K 2-Input NOR gate, doesn't seem to be manufactured anymore
+$ENDCMP
+#
+$CMP 74LS133
+D 13-INPUT-POSITIVE_NAND_GATE
+K 13-Input, NAND-gate
+F http://www.ti.com/lit/ds/symlink/sn74als133.pdf
+$ENDCMP
+#
+$CMP 74LS136
+D Quad 2-Input Exclusive-OR Gates With Open-Collector Outputs
+K 2-Input EXOR, open collector
+F http://www.ti.com/lit/ds/symlink/sn74ls136.pdf
+$ENDCMP
+#
+$CMP 74LS137
+D 3-LINE TO 8-LINE DECODERS/DEMULTIPLEXERS WITH ADDRESS LATCHES
+K Decoder, demultiplexer, address latches, obsolete
+F http://susta.cz/fel/74/pdf/sn_74137.pdf
+$ENDCMP
+#
+$CMP 74LS138
+D 3-LINE TO 8-LINE DECODERS/DEMULTIPLEXERS
+K Decoder, Demultipler
+F http://www.ti.com/lit/ds/symlink/sn54ls138-sp.pdf
+$ENDCMP
+#
+$CMP 74LS139
+D DUAL 2-LINE TO 4-LINE DECODER / DEMULTIPLEXER
+K Decoder, demultiplexer
+F http://www.ti.com/lit/ds/symlink/sn74hc139-q1.pdf
+$ENDCMP
+#
+$CMP 74LS15
+D Triple 3-Input-AND Gates with Open Collector
+K 3-Input-AND Gates, Open Collector (obsolete?)
+$ENDCMP
+#
+$CMP 74LS152
+D 1-of-8 Data Selector / Multiplexer
+K Selector, Multiplexer
+F https://www.renesas.com/br/en/doc/products/logic/001/rej03d0438_hd74ls152.pdf
+$ENDCMP
+#
+$CMP 74LS160
+D BCD DECADE COUNTERS
+K 4-Bit-Counter (obsolete)
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74LS160Athru63A.pdf
+$ENDCMP
+#
+$CMP 74LS161
+D  4-Bit Binary Counter,Asynchronous Reset
+K binary Counter, asynchronous Reset
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74LS160Athru63A.pdf
+$ENDCMP
+#
+$CMP 74LS162
+D BCD DECADE COUNTERS
+K 4-Bit Counter
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74LS160Athru63A.pdf
+$ENDCMP
+#
+$CMP 74LS163
+D  4-Bit Binary Counter,Synchronous Reset
+K  Binary Counter,Synchronous Reset
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74LS160Athru63A.pdf
+$ENDCMP
+#
+$CMP 74LS168
+D BCD DECADE16 BINARY SYNCHRONOUS BI-DIRECTIONALCOUNTERS
+K BCD Counter, SYNCHRONOUS, BI-DIRECTIONALCOUNTERS
+F https://www.onsemi.com/pub/Collateral/SN74LS168-D.PDF
+$ENDCMP
+#
+$CMP 74LS169
+D SYNCHRONOUS 4-BIT UP/DOWN BINARY COUNTERS
+K SYNCHRONOUS 4-BIT-BINARY COUNTERS, Bidirectional
+F http://www.ti.com/lit/ds/symlink/sn74ls169b.pdf
+$ENDCMP
+#
+$CMP 74LS170
+D 4−by−4−Register File with Open Collector Outputs
+K RAM 4x4, Register File, open collector
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74LS170.pdf
+$ENDCMP
+#
+$CMP 74LS177
+D Presettable Binary Counter/Latch
+$ENDCMP
+#
+$CMP 74LS190
+D Synchronous Up / Down Decade Counter (signal clock line)
+K  Decade Counter, Synchronous, Up / Down
+F https://www.renesas.com/us/en/doc/products/logic/001/rej03d0452_hd74ls190.pdf
+$ENDCMP
+#
+$CMP 74LS191
+D Synchronous Up / Down 4-bit Binary Counter (single clock line)
+K  4-bit Binary Counter, Synchronous, Up / Down
+F https://www.renesas.com/us/en/doc/products/logic/001/rej03d0453_hd74ls191.pdf
+$ENDCMP
+#
 $CMP 74LS192
-D Synchronous 4-bit Up/Down (2 clk) counter
-K TTL CNT CNT4
+D Synchronous 4-bit Up/Down (2 clk) BCD counter
+K synchronous, counter, 4-bit, up/down
 F http://www.ti.com/lit/ds/symlink/sn74ls193.pdf
 $ENDCMP
 #
 $CMP 74LS193
-D Synchronous 4-bit Up/Down (2 clk) counter
-K TTL CNT CNT4
+D Synchronous 4-bit Up/Down (2 clk) Binary counter
+K synchronous, binary, counter, 4-bit, up/down
 F http://www.ti.com/lit/ds/symlink/sn74ls193.pdf
+$ENDCMP
+#
+$CMP 74LS194
+D 4-Bit Bidirectional Universal Shift Register
+K Shift Register, Didirectional
+F http://www.ti.com/lit/ds/symlink/sn74ls194a.pdf
+$ENDCMP
+#
+$CMP 74LS195
+D 4-bit Parallel-Access Shift Register
+K 4-bit, Shift Register, Parallel-Access
+F https://www.renesas.com/us/en/doc/products/logic/001/rej03d0457_hd74ls195a.pdf
+$ENDCMP
+#
+$CMP 74LS197
+D Preset Binary Counter/Latches
+K Binary Counter, Preset, Latches
+F http://www.ti.com/lit/ds/symlink/sn54197.pdf
+$ENDCMP
+#
+$CMP 74LS240
+D Octal Inverting Buffers and Line Drivers With 3-State Outputs
+K Inverting Buffer, Line Driver, 3-State
+F http://www.ti.com/lit/ds/symlink/sn74ls240.pdf
+$ENDCMP
+#
+$CMP 74LS241
+D Octal Buffers And Line Drivers With 3-State Outputs
+K Buffer, Line Driver, 3-State
+F http://www.ti.com/lit/ds/symlink/sn74ls241.pdf
+$ENDCMP
+#
+$CMP 74LS242
+D Quadruple Bus Transceivers (with three-state outputs)
+K Inverting Buffer, 3-state
+F https://www.renesas.com/us/en/doc/products/logic/001/rej03d0461_hd74ls242.pdf
+$ENDCMP
+#
+$CMP 74LS243
+D QUADRUPLE BUSTRANSCEIVERS
+K Transceiver
+F http://www.ti.com/lit/ds/symlink/sn74ls243.pdf
+$ENDCMP
+#
+$CMP 74LS244
+D Octal Buffers And Drivers With 3-State Outputs
+K Buffer, Driver, 3-State
+F http://www.ti.com/lit/ds/symlink/sn74act244-q1.pdf
+$ENDCMP
+#
+$CMP 74LS245
+D Octal Bus TransceiversWith 3-StateOutputs
+K Transceiver, 3-StateOutput
+F http://www.ti.com/lit/ds/symlink/sn54hct245-sp.pdf
+$ENDCMP
+#
+$CMP 74LS257
+D Multiplexer with Three-State Non-Inverting Outputs
+K 2-Input Multiplexer, 3-State-Output
+F http://www.ti.com/lit/ds/symlink/cd54hct257.pdf
+$ENDCMP
+#
+$CMP 74LS258
+D QUADRUPLE 2-LINE TO 1-LINE SELECTORS/MULTIPLEXERSWITH 3-STATE INVERTING OUTPUTS
+K  2-LINE TO 1-LINE SELECTOR,  INVERTING OUTPUT, 3-STATE
+F http://www.ti.com/lit/ds/symlink/cd54hct258.pdf
+$ENDCMP
+#
+$CMP 74LS266
+D QUADRUPLE 2-INPUT EXCLUSIVE-NOR GATES WITH OPEN-COLLECTOR OUTPUTS
+K  2-INPUT, EXCLUSIVE-NOR GATE, OPEN-COLLECTOR OUTPUT
+F http://www.ti.com/lit/ds/symlink/sn54ls266.pdf
+$ENDCMP
+#
+$CMP 74LS280
+D 9-BIT ODD/EVEN PARITY GENERATORS/CHECKERS
+K Parity, 9-Bit, odd, even
+F http://www.ti.com/lit/ds/symlink/sn54ls280.pdf
+$ENDCMP
+#
+$CMP 74LS283
+D 4 Binary Full Adders with fast carry
+K Binary Full Adders, carry, fast
+F http://www.ti.com/lit/ds/symlink/sn54ls283-sp.pdf
+$ENDCMP
+#
+$CMP 74LS290
+D DECADE COUNTER (obsolete)
+F https://www.onsemi.com/pub/Collateral/SN74LS290-D.PDF
+$ENDCMP
+#
+$CMP 74LS295
+D 4−Bit Shift Register with Tri−State Outputs
+K Shift Register, 3-state
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74LS295A.pdf
+$ENDCMP
+#
+$CMP 74LS298
+D Quadruple 2-Input-Multiplexer with Starage
+K Multiplexer, Starage
+F https://www.ti.com/lit/ds/symlink/sn74ls298.pdf
+$ENDCMP
+#
+$CMP 74LS299
+D 8-BIT UNIVERSAL SHIFT/STORAGE REGISTERS
+K Shift, Storage
+F https://www.ti.com/lit/ds/symlink/sn74ls299.pdf
+$ENDCMP
+#
+$CMP 74LS323
+D 8-BIT UNIVERSAL SHIFT/STORAGE REGISTERS WITH 3-STATE OUTPUTS
+K Shift , Staroge, 3-State
+F http://www.ti.com/lit/ds/symlink/sn74als299.pdf
+$ENDCMP
+#
+$CMP 74LS347
+D BCD-TO-SEVEN-SEGMENT DECODERS/DRIVERS
+$ENDCMP
+#
+$CMP 74LS348
+D 8-LINE TO 3-LINE PRIORITY ENCODERS WITH 3-STATE OUTPUTS
+K Priority encoder, 3-State
+F http://www.ti.com/lit/ds/symlink/sn74ls348.pdf
+$ENDCMP
+#
+$CMP 74LS352
+D Dual 4−Line−to−1−Line Data Selector/Multiplexer
+K Multiplexer, inverted output
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74LS352.pdf
+$ENDCMP
+#
+$CMP 74LS353
+D DUAL 4-INPUT MULTIPLEXER WITH 3-STATE INVERTING OUTPUTS
+K Multiplexer, inverting Output, 3-state
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74LS353.pdf
+$ENDCMP
+#
+$CMP 74LS365
+D HEX BUS DRIVERS WITH 3-STATE OUTPUTS
+K Driver, 3-State
+F http://www.ti.com/lit/ds/symlink/sn74ls365a.pdf
+$ENDCMP
+#
+$CMP 74LS366
+D HEX BUS DRIVERS WITH 3-STATE INVERTING OUTPUTS
+K Inverting Drivers, 3-state
+F http://www.ti.com/lit/ds/symlink/sn54ls366a.pdf
+$ENDCMP
+#
+$CMP 74LS367
+D Hex Bus Driver with 3−State Outputs
+K Bus Driver, 3-state
+F http://www.ti.com/lit/ds/symlink/sn74ls367a.pdf
+$ENDCMP
+#
+$CMP 74LS368
+D Hex Bus Driver with 3−State inverting Outputs
+K Bus Driver, 3-state, inverting Output
+F http://www.ti.com/lit/ds/symlink/sn74ls368a.pdf
+$ENDCMP
+#
+$CMP 74LS386
+D Quad 2−Input Exclusive−OR Gate
+K EXOR-gate
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74LS386.pdf
+$ENDCMP
+#
+$CMP 74LS390
+D Dual 4−Bit Decade Ripple Counter
+K BCD counter
+F http://www.ti.com/lit/ds/symlink/sn74ls390.pdf
+$ENDCMP
+#
+$CMP 74LS393
+D DUAL 4-BIT BINARY COUNTERS
+K binary counter, ripple counter
+F http://www.ti.com/lit/ds/symlink/sn74ls393.pdf
+$ENDCMP
+#
+$CMP 74LS395
+D 4−Bit Cascadable Shift Register with 3−State Outputs
+K Shift register, 3-state
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74LS395A.pdf
+$ENDCMP
+#
+$CMP 74LS396
+D Octal Storage Register
+K Storage register
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74LS396.pdf
+$ENDCMP
+#
+$CMP 74LS398
+D Quad 2−Input Multiplexer with Storage
+K 2-input multiplexer, storage
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74LS398.pdf
+$ENDCMP
+#
+$CMP 74LS399
+D Quad 2−Input Multiplexer with Storage
+K 2-Input multiplexer, storage
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74LS399.pdf
+$ENDCMP
+#
+$CMP 74LS445
+D BCD−to−Decimal Decoder/Driver with Open Collector Outputs
+K BCD-to-decimal decoder, driver, open collector
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74LS445.pdf
+$ENDCMP
+#
+$CMP 74LS447
+D BCD TO 7-SEGMENT DECODER/DRIVER
+K BCD-to-7-segment decoder, driver (seems obsolete)
+F BCD−to−Decimal Decoder/Driverwith Open Collector Outputs
+$ENDCMP
+#
+$CMP 74LS465
+K PCN-Obsoleszenz/ EOL SSL Devices, 22/Jul/2014
+$ENDCMP
+#
+$CMP 74LS466
+K Obsolete
+$ENDCMP
+#
+$CMP 74LS467
+D  Buffers & Line Drivers
+$ENDCMP
+#
+$CMP 74LS468
+D  Buffers & Line inverting Drivers
+$ENDCMP
+#
+$CMP 74LS49
+D BCD-to-Seven-Segment decoder
+K BCD, Seven-Segment, decoder
+F http://www.ti.com/lit/ds/symlink/sn54ls49.pdf
+$ENDCMP
+#
+$CMP 74LS540
+D Octal Buffer and Line Driver with 3−State inverting Outputs
+K inverting Buffer, driver, 3-state
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74LS540_541.pdf
+$ENDCMP
+#
+$CMP 74LS541
+D Octal Buffer and Line Driver with 3−State Outputs
+K Buffer, driver, 3-state
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74LS540_541.pdf
+$ENDCMP
+#
+$CMP 74LS57
+D Frequency Divider 1:60  (6, 10)
+K obsolete ,(datasheet only in archives)
+$ENDCMP
+#
+$CMP 74LS590
+D 8-Bit binary counter with output register and  3-State buffer
+K binary counter, output register, 3-state
+F http://www.ti.com/lit/ds/symlink/sn74ls590.pdf
+$ENDCMP
+#
+$CMP 74LS591
+D 8-Bit Counter with Register, 3-state inverting buffer
+$ENDCMP
+#
+$CMP 74LS592
+D 8-Bit Binary Counter with Input Register
+K Binary Counter, input register, only carry output
+F http://www.ti.com/lit/ds/symlink/sn54ls592.pdf
+$ENDCMP
+#
+$CMP 74LS593
+D 8-Bit Binary Counters With Input Registers and biderictional In- Output
+K Binary Counter, input register, biderctional in- / output
+F http://www.ti.com/lit/ds/symlink/sn54ls593.pdf
+$ENDCMP
+#
+$CMP 74LS594
+D 8-BIT SHIFT REGISTERS WITH OUTPUT LATCHES
+K Shift register, output latch
+F http://www.ti.com/lit/ds/symlink/sn74ls594.pdf
+$ENDCMP
+#
+$CMP 74LS595
+D 8-Bit-Shift Register with output latches and 3-state buffers
+K shift register, output latch, 3-state
+F http://www.ti.com/lit/ds/symlink/sn74ls595.pdf
+$ENDCMP
+#
+$CMP 74LS596
+D 8-Bit-Shift Register with output latches and open collectors
+K shift register, output latch, open collector
+F http://www.ti.com/lit/ds/symlink/sn74ls596.pdf
+$ENDCMP
+#
+$CMP 74LS597
+D 8-Bit Shift Register with Input latches
+K shift register, input latch
+F http://www.ti.com/lit/ds/symlink/sn74ls597.pdf
+$ENDCMP
+#
+$CMP 74LS598
+D 8-Bit Shift Register parallel 3-state I/O  Starage Register Input, Shift Register Output
+K Shift Register, Input storage, shift Register Output, 3-state I/O
+F http://www.ti.com/lit/ds/symlink/sn74ls598.pdf
+$ENDCMP
+#
+$CMP 74LS599
+D 8-BIT SHIFT REGISTERS WITH OUTPUT LATCHES OPEN COLLECTOR
+K Shift register, output latch, open collector
+F http://www.ti.com/lit/ds/symlink/sn74ls594.pdf
+$ENDCMP
+#
+$CMP 74LS620
+D Bus Driver/Transceiver, 1-Func, 8-Bit, Inverted Output,
+K Obsolete, No datasheet found
+$ENDCMP
+#
+$CMP 74LS621
+D Bus Transceivers Octal bus transceivers with open collector outputs
+K obsolete, no datasheet found
+$ENDCMP
+#
+$CMP 74LS622
+K no datasheet found
+$ENDCMP
+#
+$CMP 74LS623
+D 8-Bit-Bus Transceiver Non Inverting 3-state
+K  Transceiver,  Non Inverting, 3-state
+F http://www.ti.com/lit/ds/symlink/cd54act623.pdf
+$ENDCMP
+#
+$CMP 74LS638
+K obsolete
+$ENDCMP
+#
+$CMP 74LS640
+D  Inverting Octal Bus Transceiver with 3−State Outputs
+K 8-Bit bus Transceiver, 3-state, inverting
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74LS640.pdf
+$ENDCMP
+#
+$CMP 74LS641
+D Non−Inverting Octal Bus Transceiver with Open−Collector Outputs
+K 8-Bit Bus, Transceiver, non-inverting, open collector
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74LS641.pdf
+$ENDCMP
+#
+$CMP 74LS642
+D Inverting Octal Bus Transceiverwith Open−Collector Outputs
+K 8-Bit, Transceiver, inverting, open collector
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74LS642.pdf
+$ENDCMP
+#
+$CMP 74LS645
+D Non−Inverting Octal Bus Transceiver with 3−State Outputs
+K 8-Bit, Transceiver, 3-state, non-inverting
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74LS645.pdf
+$ENDCMP
+#
+$CMP 74LS669
+D Synchronous 4-Bit Binary Up/Down Counter
+K obsolete, datasheet in archives
+$ENDCMP
+#
+$CMP 74LS670
+D 4-BY-4 REGISTER FILES WITH 3-STATE OUTPUTS
+K Regsiter files
+F http://www.ti.com/lit/ds/symlink/sn74ls670.pdf
+$ENDCMP
+#
+$CMP 74LS682
+D 8-Bit Magnitude, Identity  Comparator, Inverted Output
+K 8-Bit, comparator, inverted output
+F http://www.ti.com/lit/ds/symlink/sn74ls682.pdf
+$ENDCMP
+#
+$CMP 74LS683
+D 8-Bit Magnitude Identity  Comparator, Inverted Output with opencollector
+K (datasheets only in archives)
+$ENDCMP
+#
+$CMP 74LS684
+D 8-Bit Magnitude Identity  Comparator, Inverted Output
+K 8-Bit, comparator, inverted output
+F http://www.ti.com/lit/ds/symlink/sn74ls684.pdf
+$ENDCMP
+#
+$CMP 74LS685
+D 8-Bit Magnitude, Identity Comparator, Inverted Output Open Collector
+K 8-Bit, comparator, inverted output, open collector
+F http://www.ti.com/lit/ds/symlink/sn74ls684.pdf
+$ENDCMP
+#
+$CMP 74LS686
+D 8-Bit Magnitude,  Identity  Comparator, Inverted Output Output Enable
+K 8-Bit, Comparator, Inverted Output, output enable
+F http://www.ti.com/lit/ds/symlink/sn74ls684.pdf
+$ENDCMP
+#
+$CMP 74LS687
+D 8-Bit Magnitude, Identity  Comparator, Inverted Output Output Enable OpenCollector
+K 8-Bit, Comparator, Inverted Output, output enable, open collector
+F http://www.ti.com/lit/ds/symlink/sn74ls684.pdf
+$ENDCMP
+#
+$CMP 74LS688
+D 8-Bit Identity  Comparator, Inverted Output Output Enable
+K 8-Bit, Comparator, Inverted Output, output enable
+F http://www.ti.com/lit/ds/symlink/sn74ls684.pdf
+$ENDCMP
+#
+$CMP 74LS689
+D 8-Bit Identity  Comparator, Inverted Output Output Enable OpenCollector
+K 8-Bit, Comparator, Inverted Output, output enable, open collector
+$ENDCMP
+#
+$CMP 74S140
+D  Dual 4−Input Positive NAND 50 Ohm Line Driver
+K 4-input NAND, Line driver 50 Ohm
+F https://www.nteinc.com/specs/7400to7499/pdf/nte74S140.pdf
 $ENDCMP
 #
 #End Doc Library
